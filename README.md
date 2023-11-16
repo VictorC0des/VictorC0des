@@ -2,7 +2,7 @@
 <h3 align="left">I am a software engineering student. I am passionate about technology and I like to learn new things every day. My areas of interest are web development and computer security. My goal is to become a professional developer and create solutions that improve people's lives.</h3>
 
 
-- 👨‍🎓 I’m currently Studyng at [Universidad Tecnológica Metropolitana de Alta Tecnología](https://utma.edu.mx/) 
+- 👨‍🎓 I’m currently studying at [Universidad Tecnológica Metropolitana de Alta Tecnología](https://utma.edu.mx/) 
 
 <h3>My skills (I am still learning)</h3>
 
