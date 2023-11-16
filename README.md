@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi, i´m Victor 💪</h1>
+<h3 align="center">I am a software engineering student. I am passionate about technology and I like to learn new things every day. My areas of interest are web development and computer security. My goal is to become a professional developer and create solutions that improve people's lives.</h3>
 
-<!--
-**VictorC0des/VictorC0des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👨‍🎓 I’m currently Studyng at [Universidad Tecnológica Metropolitana de Alta Tecnología](https://utma.edu.mx/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>My skills (I am still learning)</h3>
+-🐍Python
+-💻Javascript
+-💻HTML
+-💻CSS
+-📖SQL
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorC0des&show_icons=true&locale=en&layout=compact" alt="VictorC0des" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorC0des&show_icons=true&locale=en" alt="VictorC0des" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorC0des&" alt="VictorC0des" /></p>
+
