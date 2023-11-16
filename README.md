@@ -5,10 +5,15 @@
 - 👨‍🎓 I’m currently Studyng at [Universidad Tecnológica Metropolitana de Alta Tecnología](https://utma.edu.mx/) 
 
 <h3>My skills (I am still learning)</h3>
+
 -🐍Python
+
 -💻Javascript
+
 -💻HTML
+
 -💻CSS
+
 -📖SQL
 
 
@@ -17,4 +22,5 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorC0des&show_icons=true&locale=en" alt="VictorC0des" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorC0des&" alt="VictorC0des" /></p>
+
 
